@@ -2,4 +2,6 @@ h1{
   font-size: 24px;
   padding-left: 16px;
   border-left: 8px solid pink;
+  padding-right: 2px;
+  border-right: 8px solid orange ;
 }
